@@ -1,6 +1,6 @@
 # E-Learning Platform
 
-![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-Proprietary-blue)
+![license](https://img.shields.io/badge/license-Proprietary-blue)
 
 ## About
 
@@ -52,4 +52,4 @@ This project is licensed under a Proprietary License.  The specific terms and co
 
 - GitHub: [Ananthu-M-A](https://github.com/Ananthu-M-A)
 - Portfolio: [https://ananthuma.com](https://ananthuma.com)
-- Email: ananthumapookkad@gmail.com
+- Email: me@ananthuma.com
